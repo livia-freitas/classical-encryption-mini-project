@@ -1,4 +1,5 @@
 Mini-Project 1
+
 Author Livia Stein Freitas
 A program that encrypts and decrypts words using the Caesar and Vigenere Cyphers.
 -
